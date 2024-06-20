@@ -1,0 +1,149 @@
+<!-- Content Block - H2 Section Title Start -->
+          <div class="content__block section-grid-title">
+              <h2 class="h2__title animate-in-up">Check out my Data Science projects</h2>
+          </div>
+            <!-- Content Block - H2 Section Title End -->
+  
+            <!-- Content Block - Works Gallery Start -->
+            <div class="content__block grid-block">
+              <div class="container-fluid px-0 inner__gallery">
+                <div class="row gx-0 my-gallery" itemscope itemtype="http://schema.org/ImageGallery">       
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr " itemprop="caption description">
+                    <h5>NLP</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">NLP</span>
+                      <span class="rounded-tag opposite">Content</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End --> 
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">Computer Vision</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">Computer Vision</span>
+                      <span class="rounded-tag">Total Marketing</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->  
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">Big Data</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">Big Data</span>
+                      <span class="rounded-tag">Total Marketing</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->      
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr " itemprop="caption description">
+                    <h5>Reinforcement Learning</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">Reinforcement Learning</span>
+                      <span class="rounded-tag opposite">Content</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->   
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr " itemprop="caption description">
+                    <h5>Cloud</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">Cloud</span>
+                      <span class="rounded-tag opposite">Content</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">Machine Learning</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">Machine Learning</span>
+                      <span class="rounded-tag">Total Marketing</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->  
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">Deep Learning</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">Deep Learning</span>
+                      <span class="rounded-tag">Total Marketing</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->  
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr " itemprop="caption description">
+                    <h5>Customer Data Platform</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">CDP360</span>
+                      <span class="rounded-tag opposite">Content</span>
+                    </div>
+                    <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->                                                                                                                                               
+              </div>
+            </div>
+          </div>
+          <!-- Content Block - Works Gallery End -->
