@@ -8,7 +8,7 @@
     <title>Vu Ha Portfolio</title>
 
     <!-- Meta Tags -->
-    <meta name="description" content="Show yourself brightly with Braxton - unique and creative portfolio and resume template!">
+    <meta name="description" content="Hello! I'm Vu Ha. Have a nice day!">
     <meta name="keywords" content="mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean">
     <meta name="author" content="mix_design">
 
@@ -66,7 +66,7 @@
         <nav id="menu" class="menu">
           <ul class="menu__list d-flex justify-content-start">
             <li class="menu__item">
-              <a class="menu__link btn" href="#home">
+              <a class="menu__link btn" href="https://vuha.info">
                 <span class="menu__caption">Home</span>
                 <i class="ph-bold ph-house-simple"></i>
               </a>
@@ -159,7 +159,7 @@
             </div>
           </div>
           <div class="avatar__image">
-            <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/371335000_2667164506757575_3110860618077471173_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xfP5Gm19tvQQ7kNvgFEVsDP&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDUVlx-NPsw5ZcDRAcITuWry-4M4DAZJNjoOogqW3YuAw&oe=66758F71" alt="Braxton - Personal Portfolio & Resume HTML Template Avatar">
+            <img src="https://vuha.info/img/avatars/avatar.jpg" alt="Vu Ha's Avatar">
           </div>
         </div>
         <!-- data caption #1 -->
