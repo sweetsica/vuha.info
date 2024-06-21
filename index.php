@@ -50,11 +50,11 @@
   <body>
 
     <!-- Loader Start -->
-    <div id="loader" class="loader">
+    <!-- <div id="loader" class="loader">
       <div id="loaderContent" class="loader__content">
         <div class="loader__shadow"></div>
         <div class="loader__box"></div>
-      </div>
+      </div> -->
     </div>
     <!-- Loader End -->
 
@@ -289,8 +289,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/Doppelherz1400.png" data-image="/img/project/Doppelherz.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/Doppelherz.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr" itemprop="caption description">
                     <h5>Doppelherz Vietnam</h5>
@@ -312,8 +312,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/imax1400.png" data-image="/img/project/imax.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/imax.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">IMAX Vietnam</h5>
@@ -332,8 +332,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/Silkyvietnam1400.png" data-image="/img/project/Silkyvietnam.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/Silkyvietnam.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">Silkyvietnam</h5>
@@ -352,8 +352,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/trahoavan1400.png" data-image="/img/project/trahoavang.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/trahoavang.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr " itemprop="caption description">
                     <h5>Quy Hoa Camelia</h5>
@@ -373,8 +373,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/Richnguyen1400.png" data-image="/img/project/richnguyen.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/richnguyen.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr " itemprop="caption description">
                     <h5>Richnguyen Academy</h5>
@@ -391,8 +391,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/TXD1400.png" data-image="/img/project/TXD.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/TXD.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">TXD Construction</h5>
@@ -412,8 +412,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/Blockchain1400.png" data-image="/img/project/Blockchain.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/Blockchain.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">Vietnam Blockchain Association</h5>
@@ -428,8 +428,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="/img/project/Rallismart1400.png" data-image="/img/project/Rallismart.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="/img/project/Rallismart.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr " itemprop="caption description">
                     <h5>RalliSmart (Rang Dong)</h5>
