@@ -1098,6 +1098,26 @@
               <!-- experience single item -->
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
+                  <span class="resume-lines__date animate-in-up">2024 - Now</span>
+                </div>
+                <div class="col-12 col-md-5">
+                  <h5 class="resume-lines__title animate-in-up">Data Specialist</h5>
+                  <p class="resume-lines__source animate-in-up">at 
+                    <a href="#0" class="text-link-bold" target="_blank">CS Viet Nam </a> Investment and Consultancy - Training JSC
+                  </p>
+                </div>
+                <div class="col-12 col-md-5">
+                  <p class="small resume-lines__descr animate-in-up">
+                  • Developed 20+ ML models for diverse projects.<br>
+                  • Achieved 82% accuracy in predicting future events from real-world data.<br>
+                  • Extracted data from APIs and files (csv, pdf) to analyze public opinion trends on policy changes.<br>
+                  • Led Ministry-level research on cashless payments and digital asset management policies with experts and scientists.<br>
+                  </p>
+                </div>
+              </div>              
+              <!-- experience single item -->
+              <div class="row g-0 resume-lines__item animate-in-up">
+                <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">2020 - Now</span>
                 </div>
                 <div class="col-12 col-md-5">
@@ -1115,21 +1135,7 @@
                   </p>
                 </div>
               </div>              
-              <!-- experience single item -->
-              <div class="row g-0 resume-lines__item animate-in-up">
-                <div class="col-12 col-md-2">
-                  <span class="resume-lines__date animate-in-up">2024 - Now</span>
-                </div>
-                <div class="col-12 col-md-5">
-                  <h5 class="resume-lines__title animate-in-up">Head of Marketing</h5>
-                  <p class="resume-lines__source animate-in-up">at 
-                    <a href="#0" class="text-link-bold" target="_blank">CS Viet Nam </a> Investment and Consultancy - Training JSC
-                  </p>
-                </div>
-                <div class="col-12 col-md-5">
-                  <p class="small resume-lines__descr animate-in-up">Building a strategic marketing plan for the company involves collaborating with institutes to organize events and conferences, engaging with members of parliament, experts, and scientific researchers.</p>
-                </div>
-              </div>
+
               <!-- experience single item -->
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
