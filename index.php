@@ -972,7 +972,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Jun 2024</span>
-                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448471777_2877538415720182_5066862580598205415_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GbrqXfJeXBsQ7kNvgEbFVya&_nc_ht=scontent.fhan15-2.fna&oh=00_AYA1-KaHAHijUNYdNjufKMcgHgQyiFA1mAoroTcMRks1NA&oe=66759F59">                  
+                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_VPhackathon.jpeg">                  
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">VPbank Technology Hackathon</h5>
@@ -991,7 +991,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">May 2024</span>
-                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448407758_2877546282386062_3719546096402156398_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YaW32IuhPs0Q7kNvgG5sB9M&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCJnlg2E432niJ3UI_NO8JcGcFaWrlYh10n9sJmQmeBGg&oe=66758B67">
+                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_Upgrad_bootcamp.jpeg">
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Data Science Progamming Bootcamp</h5>
@@ -1009,7 +1009,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Sep 2023</span>
-                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/448551661_2877567415717282_3427531814532306603_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m3dtvzJRrv4Q7kNvgENkmYP&_nc_ht=scontent.fhan5-9.fna&oh=00_AYD2CMVOsFwdTLYkTDpIWpIB1lfH3aTsdGbYg0qTKCBSpA&oe=6675A5EE">
+                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_VPgame.jpeg">
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">AWS Gameday with VPBank</h5>
@@ -1027,7 +1027,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">2020 - 2022</span>
-                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan5-8.fna.fbcdn.net/v/t39.30808-6/448508919_2877548375719186_6010899503428158365_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Jrpd5qyThx4Q7kNvgEgm5g_&_nc_ht=scontent.fhan5-8.fna&oh=00_AYAn7eSmQjLl9kk6Biv0pDCL929wAb5YVZA3bXrk4tFgZA&oe=66759433">              
+                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_DS_HCM.jpeg">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Certificate, Data Science</h5>
@@ -1048,7 +1048,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Feb 2020</span>
-                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/448488475_2877567405717283_3904443377812582961_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=twyu_eIOsHYQ7kNvgHow7Wq&_nc_ht=scontent.fhan5-9.fna&oh=00_AYBZwG6G2XEo8_oVS7kojO-xq5Xors01aaYEsdQD4Ow_dA&oe=6675AFB0">              
+                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_DA.jpeg">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Data Analysis for business</h5>
@@ -1065,7 +1065,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">.</span>
-                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448549478_2877552835718740_5927449635189125673_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y6ghjVrqHdkQ7kNvgE4dpJY&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCLeEvstG8P_Iqt0V6cgJFdnOEG0Kg-UhArsaBU4ZgEeg&oe=667584E8">              
+                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_toeic.jpeg">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">TOIEC 690</h5>
