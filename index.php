@@ -1223,14 +1223,14 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/sql.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/sql.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">SQL</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/aws.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/aws.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">AWS</h6>
                 </div>
               </div>
