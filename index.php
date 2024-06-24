@@ -639,7 +639,7 @@
             <!-- Works Gallery Single Item Start -->
             <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
               <a href="/img/project/hoithaoIDS.png" data-image="/img/project/hoithaoIDS.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="/img/project/hoithaoIDS.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                <img src="https://vuha.info/img/project/hoithaoIDS.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
               </a>
               <figcaption class="gallery__descr " itemprop="caption description">
                 <h5>Scientific Research Conference</h5>
@@ -656,7 +656,7 @@
             <!-- Works Gallery Single Item Start -->
             <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
               <a href="/img/project/hoithaoPDI.png" data-image="/img/project/hoithaoPDI.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="/img/project/hoithaoPDI.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                <img src="https://vuha.info/img/project/hoithaoPDI.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
               </a>
               <figcaption class="gallery__descr opposite" itemprop="caption description">
                 <h5 class="opposite">Scientific Research Conference</h5>
@@ -972,7 +972,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Jun 2024</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_VPhackathon.jpeg">                  
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_VPhackathon.jpeg">                  
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">VPbank Technology Hackathon</h5>
@@ -991,7 +991,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">May 2024</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_Upgrad_bootcamp.jpeg">
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_Upgrad_bootcamp.jpeg">
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Data Science Progamming Bootcamp</h5>
@@ -1009,7 +1009,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Sep 2023</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_VPgame.jpeg">
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_VPgame.jpeg">
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">AWS Gameday with VPBank</h5>
@@ -1027,7 +1027,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">2020 - 2022</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_DS_HCM.jpeg">              
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_DS_HCM.jpeg">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Certificate, Data Science</h5>
@@ -1048,7 +1048,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Feb 2020</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_DA.jpeg">              
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_DA.jpeg">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Data Analysis for business</h5>
@@ -1065,7 +1065,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">.</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_toeic.jpeg">              
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_toeic.jpeg">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">TOIEC 690</h5>
