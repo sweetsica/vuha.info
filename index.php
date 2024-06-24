@@ -798,7 +798,7 @@
           <!-- Content Block - About Me Data End -->
 
           <!-- Content Block - Services Start -->
-          <!-- <div class="content__block grid-block">
+          <div class="content__block grid-block">
             <div class="container-fluid p-0">
               <div class="row g-0 align-items-stretch cards">
                 <!-- services cards grid single item -->
