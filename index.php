@@ -1154,7 +1154,7 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/aws.svg" alt="Tools Icon">
+                  <object class="tools-cards__icon animate-in-up" data="https://vuha.info/img/icons/aws.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">AWS</h6>
                 </div>
               </div>
