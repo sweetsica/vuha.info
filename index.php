@@ -1175,42 +1175,42 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Hadoop_1.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Hadoop_1.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Hadoop</h6>
                 </div>
               </div>              
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/PyTorch_logo.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/PyTorch_logo.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">PyTorch</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/xgboost.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/xgboost.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">XGBoost</h6>
                 </div>
               </div>             
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Jupyter_logo.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Jupyter_logo.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Jupyter Notebook</h6>
                 </div>
               </div>              
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Google_Colab.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Google_Colab.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Google Colab</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Canva.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Canva.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Canva</h6>
                 </div>
               </div>              
@@ -1234,96 +1234,7 @@
           <!-- Content Block - H2 Block End -->
 
           <!-- Content Block - Testimonials Slider Start -->
-          <!-- <div class="content__block">
-
-            <!-- Testimonials Slider Start -->
-            <div class="testimonials-slider">
-              <!-- slider main container -->
-              <div class="swiper-testimonials">
-                <!-- additional required wrapper -->
-                <div class="swiper-wrapper">
-                  <!-- slides -->
-                  <div class="swiper-slide">
-                    <div class="testimonials-card animate-in-up">
-                      <div class="testimonials-card__tauthor d-flex animate-in-up">
-                        <div class="tauthor__avatar">
-                          <img src="https://dummyimage.com/400x400/4d4d4d/636363" alt="Review Author">
-                        </div>
-                        <div class="tauthor__info d-flex flex-column justify-content-center">
-                          <p class="tauthor__name">Alex Tomato</p>
-                          <p class="tauthor__position">Brand Manager in 
-                            <a href="#0" class="text-link-bold" target="_blank">Instant Design</a>
-                          </p>
-                          <div class="tauthor__rating d-flex">
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="testimonials-card__descr animate-in-up">
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut 
-                          laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. Dolore magna aliquam.</p>
-                      </div>
-                      <div class="testimonials-card__btnholder animate-in-up">
-                        <a class="btn mobile-vertical btn-line btn-transparent slide-right" href="#0">
-                          <span class="btn-caption">Project Page</span>
-                          <i class="ph-bold ph-arrow-right"></i>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testimonials-card  animate-in-up">
-                      <div class="testimonials-card__tauthor d-flex  animate-in-up">
-                        <div class="tauthor__avatar">
-                          <img src="https://dummyimage.com/400x400/4d4d4d/636363" alt="Review Author">
-                        </div>
-                        <div class="tauthor__info d-flex flex-column justify-content-center">
-                          <p class="tauthor__name">Jenny Pineapple</p>
-                          <p class="tauthor__position">SEO in 
-                            <a href="#0" class="text-link-bold" target="_blank">Creative People</a>
-                          </p>
-                          <div class="tauthor__rating d-flex">
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                            <i class="ph-fill ph-star"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="testimonials-card__descr animate-in-up">
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut 
-                          laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud. Dolore magna aliquam.</p>
-                      </div>
-                      <div class="testimonials-card__btnholder animate-in-up">
-                        <a class="btn mobile-vertical btn-line btn-transparent slide-right" href="#0">
-                          <span class="btn-caption">Project Page</span>
-                          <i class="ph-bold ph-arrow-right"></i>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- navigation buttons -->
-                <div class="swiper-button-prev mxd-slider-btn-square mxd-slider-btn-square-prev animate-in-up">
-                  <a class="btn btn-square btn-square-s btn-outline slide-left" href="#0">
-                    <i class="ph-bold ph-caret-left"></i>
-                  </a>
-                </div>
-                <div class="swiper-button-next mxd-slider-btn-square mxd-slider-btn-square-next animate-in-up">
-                  <a class="btn btn-square btn-square-s btn-outline slide-right" href="#0">
-                    <i class="ph-bold ph-caret-right"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <!-- Testimonials Slider End -->
-
-          </div> -->
+         
           <!-- Content Block - Testimonials Slider End -->
 
         </section>
