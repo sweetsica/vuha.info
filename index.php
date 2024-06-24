@@ -1140,77 +1140,77 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/python.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/python.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Python</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/sql.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/sql.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">SQL</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <object class="tools-cards__icon animate-in-up" data="https://vuha.info/img/icons/aws.svg" alt="Tools Icon"></object>
+                  <object class="tools-cards__icon animate-in-up" data="https://vuha.info/img/icons/aws.png" alt="Tools Icon"></object>
                   <h6 class="tools-cards__caption animate-in-up">AWS</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Tensorflow_logo.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Tensorflow_logo.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Tensorflow</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/spark.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/spark.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Apache Spark</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Hadoop_1.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/hadoop.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Hadoop</h6>
                 </div>
               </div>              
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/PyTorch_logo.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/PyTorch_logo.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">PyTorch</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/xgboost.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/xgboost.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">XGBoost</h6>
                 </div>
               </div>             
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Jupyter_logo.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Jupyter_logo.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Jupyter Notebook</h6>
                 </div>
               </div>              
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Google_Colab.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Google_Colaboratory.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Google Colab</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Canva.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Canva.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Canva</h6>
                 </div>
               </div>              
