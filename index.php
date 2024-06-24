@@ -1182,7 +1182,7 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/PyTorch_logo.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/PyTorch_logo_icon.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">PyTorch</h6>
                 </div>
               </div>
