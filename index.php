@@ -129,7 +129,7 @@
           <div class="avatar__logo d-flex align-items-center">
             <div class="logo__image">
               <!-- Your Logo Here!!! -->
-              <!--<img src="img/logo.svg" alt="Braxton - Personal Portfolio & Resume HTML Template Logo">-->
+              <!--<img src="https://vuha.info/img/logo.svg" alt="Braxton - Personal Portfolio & Resume HTML Template Logo">-->
               <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                 width="85px" height="85px" viewBox="0 0 85 85" 
                 style="enable-background:new 0 0 85 85;" xml:space="preserve" class="gradient-fill">
@@ -798,83 +798,7 @@
           <!-- Content Block - About Me Data End -->
 
           <!-- Content Block - Services Start -->
-          <div class="content__block grid-block">
-            <div class="container-fluid p-0">
-              <div class="row g-0 align-items-stretch cards">
-                <!-- services cards grid single item -->
-                <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
-                  <div class="cards__card d-flex flex-column">
-                    <div class="cards__descr">
-                      <h4 class="cards__title animate-in-up">Frontend<br>development</h4>
-                      <div class="cards__tags d-flex flex-wrap animate-in-up">
-                        <span class="rounded-tag tag-outline">UI/UX Design</span>
-                        <span class="rounded-tag tag-outline">Design to Code</span>
-                      </div>
-                      <p class="small cards__text animate-in-up">I work with HTML/CSS, Framer and WordPress.</p>
-                    </div>
-                    <div class="cards__image d-flex animate-in-up">
-                      <img src="https://dummyimage.com/1200x900/4d4d4d/636363" alt="Service/Feature Image">
-                    </div>
-                  </div>
-                </div>
-                <!-- services grid cards single item -->
-                <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
-                  <div class="cards__card d-flex flex-column">
-                    <div class="cards__descr">
-                      <h4 class="cards__title animate-in-up">Digital art and graphic design</h4>
-                      <div class="cards__tags d-flex flex-wrap animate-in-up">
-                        <span class="rounded-tag tag-outline">Illustrations</span>
-                        <span class="rounded-tag tag-outline">AI Experiments</span>
-                      </div>
-                      <p class="small cards__text animate-in-up">I use Adobe Photoshop, Fresco and Blender to create 
-                        illustrations and 3D renders for my clients and stocks.
-                      </p>
-                    </div>
-                    <div class="cards__image d-flex animate-in-up">
-                      <img src="https://dummyimage.com/1200x900/4d4d4d/636363" alt="Service/Feature Image">
-                    </div>
-                  </div>
-                </div>
-                <!-- services grid cards single item -->
-                <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
-                  <div class="cards__card d-flex flex-column">
-                    <div class="cards__descr">
-                      <h4 class="cards__title animate-in-up">SEO/Digital marketing solutions</h4>
-                      <div class="cards__tags d-flex flex-wrap animate-in-up">
-                        <span class="rounded-tag tag-outline">Social Media</span>
-                        <span class="rounded-tag tag-outline">Analytics</span>
-                      </div>
-                      <p class="small cards__text animate-in-up">Social media content plans, media monitoring, email and text messaging
-                        and search engine optimization.
-                      </p>
-                    </div>
-                    <div class="cards__image d-flex">
-                      <img src="https://dummyimage.com/1200x900/4d4d4d/636363" alt="Service/Feature Image">
-                    </div>
-                  </div>
-                </div>
-                <!-- services grid cards single item -->
-                <div class="col-12 col-md-6 cards__item grid-item animate-card-2">
-                  <div class="cards__card d-flex flex-column">
-                    <div class="cards__descr">
-                      <h4 class="cards__title animate-in-up">Brand<br>identity</h4>
-                      <div class="cards__tags d-flex flex-wrap animate-in-up">
-                        <span class="rounded-tag tag-outline">Logo Design</span>
-                        <span class="rounded-tag tag-outline">Style Guides</span>
-                      </div>
-                      <p class="small cards__text animate-in-up">I help my clients to develop a personality and brand voice, 
-                        design the brand look and logo.
-                      </p>
-                    </div>
-                    <div class="cards__image d-flex animate-in-up">
-                      <img src="https://dummyimage.com/1200x900/4d4d4d/636363" alt="Service/Feature Image">
-                    </div>
-                  </div>
-                </div>
-    
-              </div>
-            </div>
-          </div> -->
+          
           <!-- Content Block - Services End -->
 
         </section>
@@ -1216,7 +1140,7 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/python.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/python.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Python</h6>
                 </div>
               </div>
@@ -1237,14 +1161,14 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Tensorflow_logo.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Tensorflow_logo.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Tensorflow</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/spark.svg" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/spark.svg" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Apache Spark</h6>
                 </div>
               </div>
