@@ -8,7 +8,7 @@
     <title>Vu Ha Portfolio</title>
 
     <!-- Meta Tags -->
-    <meta name="description" content="Hello! I'm Vu Ha. Have a nice day!">
+    <meta name="description" content="Show yourself brightly with Braxton - unique and creative portfolio and resume template!">
     <meta name="keywords" content="mix_design, resume, portfolio, personal page, cv, template, one page, responsive, html5, css3, creative, clean">
     <meta name="author" content="mix_design">
 
@@ -66,7 +66,7 @@
         <nav id="menu" class="menu">
           <ul class="menu__list d-flex justify-content-start">
             <li class="menu__item">
-              <a class="menu__link btn" href="https://vuha.info">
+              <a class="menu__link btn" href="#home">
                 <span class="menu__caption">Home</span>
                 <i class="ph-bold ph-house-simple"></i>
               </a>
@@ -159,7 +159,7 @@
             </div>
           </div>
           <div class="avatar__image">
-            <img src="https://vuha.info/img/avatars/avatar.jpg" alt="Vu Ha's Avatar">
+            <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/371335000_2667164506757575_3110860618077471173_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xfP5Gm19tvQQ7kNvgFEVsDP&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDUVlx-NPsw5ZcDRAcITuWry-4M4DAZJNjoOogqW3YuAw&oe=66758F71" alt="Braxton - Personal Portfolio & Resume HTML Template Avatar">
           </div>
         </div>
         <!-- data caption #1 -->
@@ -289,8 +289,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/Doppelherz1400.png" data-image="/img/project/Doppelherz.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/Doppelherz.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448803951_2880820368725320_1421460503325065242_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ehDDqSLszb8Q7kNvgEsdx1D&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDcPqza63GsgrOyW52ZfPz5kxN7SC6LKie5dxa5Q-EYDg&oe=667B21DF" data-image="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448803951_2880820368725320_1421460503325065242_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ehDDqSLszb8Q7kNvgEsdx1D&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDcPqza63GsgrOyW52ZfPz5kxN7SC6LKie5dxa5Q-EYDg&oe=667B21DF" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448803951_2880820368725320_1421460503325065242_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ehDDqSLszb8Q7kNvgEsdx1D&_nc_ht=scontent.fhan15-1.fna&oh=00_AYDcPqza63GsgrOyW52ZfPz5kxN7SC6LKie5dxa5Q-EYDg&oe=667B21DF" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr" itemprop="caption description">
                     <h5>Doppelherz Vietnam</h5>
@@ -312,8 +312,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/imax1400.png" data-image="/img/project/imax.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/imax.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448764753_2880820392058651_438037964210876211_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VQWSo3KQgzoQ7kNvgFH1o6a&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCo7ElZFipz4kIa0LX4f_e4jeUppnJv1gIRMUZMJw9_gA&oe=667B0F0B" data-image="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448764753_2880820392058651_438037964210876211_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VQWSo3KQgzoQ7kNvgFH1o6a&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCo7ElZFipz4kIa0LX4f_e4jeUppnJv1gIRMUZMJw9_gA&oe=667B0F0B" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448764753_2880820392058651_438037964210876211_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VQWSo3KQgzoQ7kNvgFH1o6a&_nc_ht=scontent.fhan15-1.fna&oh=00_AYCo7ElZFipz4kIa0LX4f_e4jeUppnJv1gIRMUZMJw9_gA&oe=667B0F0B" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">IMAX Vietnam</h5>
@@ -332,8 +332,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/Silkyvietnam1400.png" data-image="/img/project/Silkyvietnam.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/Silkyvietnam.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448762378_2880820362058654_213342824140928428_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BUQNIYh4MyYQ7kNvgEW9-3_&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBS2GU10j5aorJRXHFz-aUSfDt42I78x9XjmgpHk-3V0w&oe=667B2F65" data-image="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448762378_2880820362058654_213342824140928428_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BUQNIYh4MyYQ7kNvgEW9-3_&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBS2GU10j5aorJRXHFz-aUSfDt42I78x9XjmgpHk-3V0w&oe=667B2F65" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448762378_2880820362058654_213342824140928428_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BUQNIYh4MyYQ7kNvgEW9-3_&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBS2GU10j5aorJRXHFz-aUSfDt42I78x9XjmgpHk-3V0w&oe=667B2F65" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">Silkyvietnam</h5>
@@ -352,8 +352,8 @@
     
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/trahoavan1400.png" data-image="/img/project/trahoavang.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/trahoavang.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448763227_2880820418725315_5699820086327603232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JwzPlNkcP3oQ7kNvgEniPQ5&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBzUWvOkPQIOYCo6kgO6VXiz_G2kVxDdjfkJHMUnCkTHg&oe=667B1DCF" data-image="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448763227_2880820418725315_5699820086327603232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JwzPlNkcP3oQ7kNvgEniPQ5&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBzUWvOkPQIOYCo6kgO6VXiz_G2kVxDdjfkJHMUnCkTHg&oe=667B1DCF" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448763227_2880820418725315_5699820086327603232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JwzPlNkcP3oQ7kNvgEniPQ5&_nc_ht=scontent.fhan15-1.fna&oh=00_AYBzUWvOkPQIOYCo6kgO6VXiz_G2kVxDdjfkJHMUnCkTHg&oe=667B1DCF" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr " itemprop="caption description">
                     <h5>Quy Hoa Camelia</h5>
@@ -373,8 +373,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/Richnguyen1400.png" data-image="/img/project/richnguyen.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/richnguyen.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448890038_2880820315391992_1721347625286586684_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-Qrq2YJYaPwQ7kNvgFK20At&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCTokIwY6ZD46jbytNwQkpz_IYLolgHgqNRLG5SoxqLdw&oe=667B1B0A" data-image="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448890038_2880820315391992_1721347625286586684_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-Qrq2YJYaPwQ7kNvgFK20At&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCTokIwY6ZD46jbytNwQkpz_IYLolgHgqNRLG5SoxqLdw&oe=667B1B0A" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448890038_2880820315391992_1721347625286586684_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-Qrq2YJYaPwQ7kNvgFK20At&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCTokIwY6ZD46jbytNwQkpz_IYLolgHgqNRLG5SoxqLdw&oe=667B1B0A" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr " itemprop="caption description">
                     <h5>Richnguyen Academy</h5>
@@ -391,8 +391,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/TXD1400.png" data-image="/img/project/TXD.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/TXD.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448887320_2880820448725312_5743106315841775259_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9ApSYCXZShoQ7kNvgGsSn3Z&_nc_ht=scontent.fhan15-1.fna&oh=00_AYD5wSUmb5JmgQJgJwdV55TOFUAMQzJXg0rvRKKbY08KWw&oe=667B203E" data-image="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448887320_2880820448725312_5743106315841775259_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9ApSYCXZShoQ7kNvgGsSn3Z&_nc_ht=scontent.fhan15-1.fna&oh=00_AYD5wSUmb5JmgQJgJwdV55TOFUAMQzJXg0rvRKKbY08KWw&oe=667B203E" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/448887320_2880820448725312_5743106315841775259_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9ApSYCXZShoQ7kNvgGsSn3Z&_nc_ht=scontent.fhan15-1.fna&oh=00_AYD5wSUmb5JmgQJgJwdV55TOFUAMQzJXg0rvRKKbY08KWw&oe=667B203E" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">TXD Construction</h5>
@@ -412,8 +412,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/Blockchain1400.png" data-image="/img/project/Blockchain.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/Blockchain.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448762846_2880820332058657_7551537942652280921_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Omkclqo5o9wQ7kNvgG40-rB&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBsGWhNbqLREpRF0MYYqWHglZj6DVOl7QpBtgCRBdhRmQ&oe=667B1DA6" data-image="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448762846_2880820332058657_7551537942652280921_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Omkclqo5o9wQ7kNvgG40-rB&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBsGWhNbqLREpRF0MYYqWHglZj6DVOl7QpBtgCRBdhRmQ&oe=667B1DA6" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448762846_2880820332058657_7551537942652280921_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Omkclqo5o9wQ7kNvgG40-rB&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBsGWhNbqLREpRF0MYYqWHglZj6DVOl7QpBtgCRBdhRmQ&oe=667B1DA6" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr opposite" itemprop="caption description">
                     <h5 class="opposite">Vietnam Blockchain Association</h5>
@@ -428,8 +428,8 @@
 
                 <!-- Works Gallery Single Item Start -->
                 <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-                  <a href="https://vuha.info/img/project/Rallismart1400.png" data-image="/img/project/Rallismart.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                    <img src="https://vuha.info/img/project/Rallismart.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  <a href="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448889770_2880820375391986_1620407349411061452_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YP6ZRKDWtaEQ7kNvgFVhNKm&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBNqbT9pXom4_RUGKwhwG7vukisn-AmZHGctVMM-tEnXA&oe=667B1086" data-image="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448889770_2880820375391986_1620407349411061452_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YP6ZRKDWtaEQ7kNvgFVhNKm&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBNqbT9pXom4_RUGKwhwG7vukisn-AmZHGctVMM-tEnXA&oe=667B1086" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448889770_2880820375391986_1620407349411061452_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YP6ZRKDWtaEQ7kNvgFVhNKm&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBNqbT9pXom4_RUGKwhwG7vukisn-AmZHGctVMM-tEnXA&oe=667B1086" class="gallery__image" itemprop="thumbnail" alt="Image description">
                   </a>
                   <figcaption class="gallery__descr " itemprop="caption description">
                     <h5>RalliSmart (Rang Dong)</h5>
@@ -626,7 +626,7 @@
               </svg>
               <span>Portfolio</span>
             </p> -->
-            <h2 class="h2__title animate-in-up">My others projects</h2>
+            <h2 class="h2__title animate-in-up">My other projects</h2>
           </div>
           <!-- Content Block - H2 Section Title End -->
 
@@ -638,8 +638,8 @@
 
             <!-- Works Gallery Single Item Start -->
             <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="/img/project/hoithaoIDS.png" data-image="/img/project/hoithaoIDS.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="/img/project/hoithaoIDS.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+              <a href="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448724904_2880841102056580_7898274224471765453_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LeSK4psgfWwQ7kNvgE4aqMq&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBc6SiGO-TImq-IRP7Ax0YYLZ4PCTQckcfJqgE5z4D4vw&oe=667B3435" data-image="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448724904_2880841102056580_7898274224471765453_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LeSK4psgfWwQ7kNvgE4aqMq&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBc6SiGO-TImq-IRP7Ax0YYLZ4PCTQckcfJqgE5z4D4vw&oe=667B3435" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448724904_2880841102056580_7898274224471765453_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LeSK4psgfWwQ7kNvgE4aqMq&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBc6SiGO-TImq-IRP7Ax0YYLZ4PCTQckcfJqgE5z4D4vw&oe=667B3435" class="gallery__image" itemprop="thumbnail" alt="Image description">
               </a>
               <figcaption class="gallery__descr " itemprop="caption description">
                 <h5>Scientific Research Conference</h5>
@@ -655,8 +655,8 @@
 
             <!-- Works Gallery Single Item Start -->
             <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="/img/project/hoithaoPDI.png" data-image="/img/project/hoithaoPDI.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="/img/project/hoithaoPDI.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+              <a href="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448904355_2880841112056579_6942512436530530044_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yiWuInfOgl4Q7kNvgGJprRj&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBz2SM8Zqe92uq-usl32pPB7LtvUqMM4C1W5QNDbb8GpQ&oe=667B371E" data-image="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448904355_2880841112056579_6942512436530530044_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yiWuInfOgl4Q7kNvgGJprRj&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBz2SM8Zqe92uq-usl32pPB7LtvUqMM4C1W5QNDbb8GpQ&oe=667B371E" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                <img src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448904355_2880841112056579_6942512436530530044_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yiWuInfOgl4Q7kNvgGJprRj&_nc_ht=scontent.fhan15-2.fna&oh=00_AYBz2SM8Zqe92uq-usl32pPB7LtvUqMM4C1W5QNDbb8GpQ&oe=667B371E" class="gallery__image" itemprop="thumbnail" alt="Image description">
               </a>
               <figcaption class="gallery__descr opposite" itemprop="caption description">
                 <h5 class="opposite">Scientific Research Conference</h5>
@@ -668,9 +668,9 @@
                 </p>
               </figcaption>
             </figure>
-            <!-- Works Gallery Single Item End -->                                                                                                                                           
-          </div>
-        </div>
+            <!-- Works Gallery Single Item End -->  
+
+
       </div>
       <!-- Content Block - Works Gallery End -->        
         </section> 
@@ -798,7 +798,7 @@
           <!-- Content Block - About Me Data End -->
 
           <!-- Content Block - Services Start -->
-          <!-- <div class="content__block grid-block">
+          <div class="content__block grid-block">
             <div class="container-fluid p-0">
               <div class="row g-0 align-items-stretch cards">
                 <!-- services cards grid single item -->
@@ -874,7 +874,7 @@
     
               </div>
             </div>
-          </div> -->
+          </div>
           <!-- Content Block - Services End -->
 
         </section>
@@ -972,7 +972,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Jun 2024</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_VPhackathon.jpeg">                  
+                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448471777_2877538415720182_5066862580598205415_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GbrqXfJeXBsQ7kNvgEbFVya&_nc_ht=scontent.fhan15-2.fna&oh=00_AYA1-KaHAHijUNYdNjufKMcgHgQyiFA1mAoroTcMRks1NA&oe=66759F59">                  
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">VPbank Technology Hackathon</h5>
@@ -991,7 +991,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">May 2024</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_Upgrad_bootcamp.jpeg">
+                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448407758_2877546282386062_3719546096402156398_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YaW32IuhPs0Q7kNvgG5sB9M&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCJnlg2E432niJ3UI_NO8JcGcFaWrlYh10n9sJmQmeBGg&oe=66758B67">
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Data Science Progamming Bootcamp</h5>
@@ -1009,7 +1009,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Sep 2023</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_VPgame.jpeg">
+                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/448551661_2877567415717282_3427531814532306603_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=m3dtvzJRrv4Q7kNvgENkmYP&_nc_ht=scontent.fhan5-9.fna&oh=00_AYD2CMVOsFwdTLYkTDpIWpIB1lfH3aTsdGbYg0qTKCBSpA&oe=6675A5EE">
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">AWS Gameday with VPBank</h5>
@@ -1027,7 +1027,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">2020 - 2022</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_DS_HCM.jpeg">              
+                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan5-8.fna.fbcdn.net/v/t39.30808-6/448508919_2877548375719186_6010899503428158365_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Jrpd5qyThx4Q7kNvgEgm5g_&_nc_ht=scontent.fhan5-8.fna&oh=00_AYAn7eSmQjLl9kk6Biv0pDCL929wAb5YVZA3bXrk4tFgZA&oe=66759433">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Certificate, Data Science</h5>
@@ -1048,7 +1048,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">Feb 2020</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_DA.jpeg">              
+                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/448488475_2877567405717283_3904443377812582961_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=twyu_eIOsHYQ7kNvgHow7Wq&_nc_ht=scontent.fhan5-9.fna&oh=00_AYBZwG6G2XEo8_oVS7kojO-xq5Xors01aaYEsdQD4Ow_dA&oe=6675AFB0">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Data Analysis for business</h5>
@@ -1065,7 +1065,7 @@
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
                   <span class="resume-lines__date animate-in-up">.</span>
-                  <img style="padding: 7px 10px 0px 0px" src="/img/project/cert_toeic.jpeg">              
+                  <img style="padding: 7px 10px 0px 0px" src="https://scontent.fhan15-2.fna.fbcdn.net/v/t39.30808-6/448549478_2877552835718740_5927449635189125673_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y6ghjVrqHdkQ7kNvgE4dpJY&_nc_ht=scontent.fhan15-2.fna&oh=00_AYCLeEvstG8P_Iqt0V6cgJFdnOEG0Kg-UhArsaBU4ZgEeg&oe=667584E8">              
                 </div>
                 <div class="col-12 col-md-5">
                   <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">TOIEC 690</h5>
@@ -1108,10 +1108,10 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                  • Developed 20+ ML models for diverse projects.<br>
-                  • Achieved 82% accuracy in predicting future events from real-world data.<br>
-                  • Extracted data from APIs and files (csv, pdf) to analyze public opinion trends on policy changes.<br>
-                  • Led Ministry-level research on cashless payments and digital asset management policies with experts and scientists.<br>
+                    • Developed 20+ ML models for diverse projects.<br>
+                    • Achieved 82% accuracy in predicting future events from real-world data.<br>
+                    • Extracted data from APIs and files (csv, pdf) to analyze public opinion trends on policy changes.<br>
+                    • Led Ministry-level research on cashless payments and digital asset management policies with experts and scientists.
                   </p>
                 </div>
               </div>              
@@ -1216,87 +1216,66 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/python.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Python</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-photoshop.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Photoshop</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/sql.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">SQL</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-figma.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Figma</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/aws.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">AWS</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-illustrator.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Illustrator</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Tensorflow_logo.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Tensorflow</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-sketch.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Sketch</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/spark.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Apache Spark</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-blender.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Blender</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Hadoop_1.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Hadoop</h6>
-                </div>
-              </div>              
-              <!-- tools simgle item -->
-              <div class="tools-cards__item d-flex grid-item-s animate-card-5">
-                <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/PyTorch_logo.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">PyTorch</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-html.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">HTML5</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/xgboost.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">XGBoost</h6>
-                </div>
-              </div>             
-              <!-- tools simgle item -->
-              <div class="tools-cards__item d-flex grid-item-s animate-card-5">
-                <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Jupyter_logo.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Jupyter Notebook</h6>
-                </div>
-              </div>              
-              <!-- tools simgle item -->
-              <div class="tools-cards__item d-flex grid-item-s animate-card-5">
-                <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Google_Colab.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Google Colab</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-css.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">CSS3</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/Canva.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Canva</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-notion.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Notion</h6>
                 </div>
-              </div>              
+              </div>
             </div>
             <!-- Tools List End -->
           </div>
           <!-- Content Block - Tools List End -->
 
           <!-- Content Block - H2 Block Start -->
-          <!-- <div class="content__block section-title">
+          <div class="content__block section-title">
             <p class="h2__subtitle animate-in-up">
               <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="13px" height="13px" viewBox="0 0 13 13" fill="currentColor">
                 <path fill="currentColor" d="M5.6,12.6c-0.5-0.8-0.7-2.4-1.7-3.5c-1-1-2.7-1.2-3.5-1.7C-0.1,7-0.1,6,0.4,5.6c0.8-0.5,2.3-0.6,3.5-1.8
@@ -1306,11 +1285,11 @@
               <span>Testimonials</span>
             </p>
             <h2 class="h2__title animate-in-up">Clients say about me</h2>
-          </div> -->
+          </div>
           <!-- Content Block - H2 Block End -->
 
           <!-- Content Block - Testimonials Slider Start -->
-          <!-- <div class="content__block">
+          <div class="content__block">
 
             <!-- Testimonials Slider Start -->
             <div class="testimonials-slider">
@@ -1399,7 +1378,7 @@
             </div>
             <!-- Testimonials Slider End -->
 
-          </div> -->
+          </div>
           <!-- Content Block - Testimonials Slider End -->
 
         </section>
@@ -1520,7 +1499,7 @@
             <div class="teaser">
               <p class="teaser__text animate-in-up">Want to know more about me, tell me 
                 about your project or just to say hello? 
-                <a class="text-link-bold" href="mailto:vuha7394@gmail.com?subject=Message%20from%20your%20site">Drop me a line</a> 
+                <a class="text-link-bold" href="mailto:example@example.com?subject=Message%20from%20your%20site">Drop me a line</a> 
                 and I'll get back 
                 as soon as possible.
               </p>
