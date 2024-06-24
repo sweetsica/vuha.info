@@ -798,7 +798,7 @@
           <!-- Content Block - About Me Data End -->
 
           <!-- Content Block - Services Start -->
-          <div class="content__block grid-block">
+          <!-- <div class="content__block grid-block">
             <div class="container-fluid p-0">
               <div class="row g-0 align-items-stretch cards">
                 <!-- services cards grid single item -->
@@ -874,7 +874,7 @@
     
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- Content Block - Services End -->
 
         </section>
@@ -1216,66 +1216,87 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-photoshop.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Photoshop</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/python.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Python</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-figma.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Figma</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/sql.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">SQL</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-illustrator.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Illustrator</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/aws.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">AWS</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-sketch.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Sketch</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/Tensorflow_logo.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Tensorflow</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-blender.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Blender</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/spark.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Apache Spark</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-html.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">HTML5</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/Hadoop_1.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Hadoop</h6>
+                </div>
+              </div>              
+              <!-- tools simgle item -->
+              <div class="tools-cards__item d-flex grid-item-s animate-card-5">
+                <div class="tools-cards__card">
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/PyTorch_logo.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">PyTorch</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-css.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">CSS3</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/xgboost.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">XGBoost</h6>
+                </div>
+              </div>             
+              <!-- tools simgle item -->
+              <div class="tools-cards__item d-flex grid-item-s animate-card-5">
+                <div class="tools-cards__card">
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/Jupyter_logo.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Jupyter Notebook</h6>
+                </div>
+              </div>              
+              <!-- tools simgle item -->
+              <div class="tools-cards__item d-flex grid-item-s animate-card-5">
+                <div class="tools-cards__card">
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/Google_Colab.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Google Colab</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="img/icons/icon-notion.svg" alt="Tools Icon">
-                  <h6 class="tools-cards__caption animate-in-up">Notion</h6>
+                  <img class="tools-cards__icon animate-in-up" src="img/icons/Canva.svg" alt="Tools Icon">
+                  <h6 class="tools-cards__caption animate-in-up">Canva</h6>
                 </div>
-              </div>
+              </div>              
             </div>
             <!-- Tools List End -->
           </div>
           <!-- Content Block - Tools List End -->
 
           <!-- Content Block - H2 Block Start -->
-          <div class="content__block section-title">
+          <!-- <div class="content__block section-title">
             <p class="h2__subtitle animate-in-up">
               <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="13px" height="13px" viewBox="0 0 13 13" fill="currentColor">
                 <path fill="currentColor" d="M5.6,12.6c-0.5-0.8-0.7-2.4-1.7-3.5c-1-1-2.7-1.2-3.5-1.7C-0.1,7-0.1,6,0.4,5.6c0.8-0.5,2.3-0.6,3.5-1.8
@@ -1285,11 +1306,11 @@
               <span>Testimonials</span>
             </p>
             <h2 class="h2__title animate-in-up">Clients say about me</h2>
-          </div>
+          </div> -->
           <!-- Content Block - H2 Block End -->
 
           <!-- Content Block - Testimonials Slider Start -->
-          <div class="content__block">
+          <!-- <div class="content__block">
 
             <!-- Testimonials Slider Start -->
             <div class="testimonials-slider">
@@ -1378,7 +1399,7 @@
             </div>
             <!-- Testimonials Slider End -->
 
-          </div>
+          </div> -->
           <!-- Content Block - Testimonials Slider End -->
 
         </section>
@@ -1499,7 +1520,7 @@
             <div class="teaser">
               <p class="teaser__text animate-in-up">Want to know more about me, tell me 
                 about your project or just to say hello? 
-                <a class="text-link-bold" href="mailto:example@example.com?subject=Message%20from%20your%20site">Drop me a line</a> 
+                <a class="text-link-bold" href="mailto:vuha7394@gmail.com?subject=Message%20from%20your%20site">Drop me a line</a> 
                 and I'll get back 
                 as soon as possible.
               </p>
