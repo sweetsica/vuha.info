@@ -576,7 +576,7 @@
                   Currently, I am pursuing a Master's degree in Data Science at Liverpool John Moores University (UK) and actively seeking opportunities to apply my knowledge in a related position.
                   </p>
                   <div class="btn-group about-descr__btnholder animate-in-up">
-                    <a class="btn mobile-vertical btn-default btn-hover btn-hover-accent" href="#0">
+                    <a class="btn mobile-vertical btn-default btn-hover btn-hover-accent" href="/pdf/VuHa_Marketing Manager_ENG ver.pdf" target="_blank">
                       <span class="btn-caption">Download CV</span>
                       <i class="ph-bold ph-download-simple"></i>
                     </a>
