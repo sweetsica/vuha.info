@@ -1172,21 +1172,21 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/spark.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Apache_spark.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Apache Spark</h6>
                 </div>
               </div>
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/kafka.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Kafka.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Kafka</h6>
                 </div>
               </div>              
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/hadoop.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Hadoop.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Hadoop</h6>
                 </div>
               </div>              
