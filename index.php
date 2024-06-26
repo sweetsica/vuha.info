@@ -181,19 +181,16 @@
           <div class="avatar__socials">
             <ul class="socials-square d-flex justify-content-between">
               <li class="socials-square__item">
-                <a class="socials-square__link btn" href="https://dribbble.com/" target="_blank"><i class="ph-bold ph-dribbble-logo"></i></a>
+                <a class="socials-square__link btn" href="https://github.com/vuha7394" target="_blank"><i class="ph-bold ph-github-logo"></i></a>
               </li>
               <li class="socials-square__item">
-                <a class="socials-square__link btn" href="https://www.behance.net/" target="_blank"><i class="ph-bold ph-behance-logo"></i></a>
+                <a class="socials-square__link btn" href="https://www.linkedin.com/in/vuha7394/" target="_blank"><i class="ph-bold ph-linkedin-logo"></i></a>
               </li>
               <li class="socials-square__item">
-                <a class="socials-square__link btn" href="https://www.instagram.com/" target="_blank"><i class="ph-bold ph-instagram-logo"></i></a>
+                <a class="socials-square__link btn" href="https://www.facebook.com/vuha7394/" target="_blank"><i class="ph-bold ph-facebook-logo"></i></a>
               </li>
               <li class="socials-square__item">
-                <a class="socials-square__link btn" href="https://www.twitch.tv/" target="_blank"><i class="ph-bold ph-twitch-logo"></i></a>
-              </li>
-              <li class="socials-square__item">
-                <a class="socials-square__link btn" href="https://www.pinterest.com/" target="_blank"><i class="ph-bold ph-pinterest-logo"></i></a>
+                <a class="socials-square__link btn" href="mailto:vuha7394@gmail.com?subject=Message%20from%20your%20site" target="_blank"><i class="ph-bold ph-envelope-simple"></i></a>
               </li>
             </ul>
           </div>
@@ -1314,36 +1311,29 @@
               <!-- socials item -->
               <div class="socials-cards__item d-flex grid-item-s animate-card-5">
                 <div class="socials-cards__card">
-                  <i class="ph-bold ph-dribbble-logo"></i>
-                  <a class="socials-cards__link" href="https://dribbble.com/" target="_blank"></a>
+                  <i class="ph-bold ph-github-logo"></i>
+                  <a class="socials-cards__link" href="https://github.com/vuha7394" target="_blank"></a>
                 </div>
               </div>
               <!-- socials item -->
               <div class="socials-cards__item d-flex grid-item-s animate-card-5">
                 <div class="socials-cards__card">
-                  <i class="ph-bold ph-behance-logo"></i>
-                  <a class="socials-cards__link" href="https://www.behance.net/" target="_blank"></a>
+                  <i class="ph-bold ph-linkedin-logo"></i>
+                  <a class="socials-cards__link" href="https://www.linkedin.com/in/vuha7394/" target="_blank"></a>
                 </div>
               </div>
               <!-- socials item -->
               <div class="socials-cards__item d-flex grid-item-s animate-card-5">
                 <div class="socials-cards__card">
-                  <i class="ph-bold ph-instagram-logo"></i>
-                  <a class="socials-cards__link" href="https://www.instagram.com/" target="_blank"></a>
+                  <i class="ph-bold ph-facebook-logo"></i>
+                  <a class="socials-cards__link" href="https://www.facebook.com/vuha7394/" target="_blank"></a>
                 </div>
               </div>
               <!-- socials item -->
               <div class="socials-cards__item d-flex grid-item-s animate-card-5">
                 <div class="socials-cards__card">
-                  <i class="ph-bold ph-twitch-logo"></i>
-                  <a class="socials-cards__link" href="https://www.twitch.tv/" target="_blank"></a>
-                </div>
-              </div>
-              <!-- socials item -->
-              <div class="socials-cards__item d-flex grid-item-s animate-card-5">
-                <div class="socials-cards__card">
-                  <i class="ph-bold ph-pinterest-logo"></i>
-                  <a class="socials-cards__link" href="https://www.pinterest.com/" target="_blank"></a>
+                  <i class="ph-bold ph-envelope-simple"></i>
+                  <a class="socials-cards__link" href="mailto:vuha7394@gmail.com?subject=Message%20from%20your%20site" target="_blank"></a>
                 </div>
               </div>
             </div>
