@@ -227,7 +227,7 @@
                 <span class="btn-caption">My Works</span>
                 <i class="ph-bold ph-squares-four"></i>
               </a>
-              <a class="btn mobile-vertical btn-default btn-hover btn-hover-outline-mobile animate-headline" href="/pdf/VuHa_Marketing Manager_ENG ver.pdf">
+              <a class="btn mobile-vertical btn-default btn-hover btn-hover-outline-mobile animate-headline" href="/pdf/VuHa_Marketing Manager_ENG ver.pdf" target="_blank">
                 <span class="btn-caption">Download CV</span>
                 <i class="ph-bold ph-download-simple"></i>
               </a>
