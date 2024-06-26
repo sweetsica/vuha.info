@@ -445,171 +445,6 @@
         </section>
         <!-- Portfolio Section End -->
 
-        <!-- Data Project Section start   -->
-        <section id="portfolio-2" class="inner inner-first portfolio-2">
-
-          <!-- Content Block - H2 Section Title Start -->
-          <div class="content__block section-grid-title">
-            <!-- <p class="h2__subtitle animate-in-up">
-              <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="13px" height="13px" viewBox="0 0 13 13" fill="currentColor">
-                <path fill="currentColor" d="M5.6,12.6c-0.5-0.8-0.7-2.4-1.7-3.5c-1-1-2.7-1.2-3.5-1.7C-0.1,7-0.1,6,0.4,5.6c0.8-0.5,2.3-0.6,3.5-1.8
-                  C5,2.8,5.1,1.2,5.6,0.4C6-0.1,7-0.1,7.4,0.4c0.5,0.8,0.7,2.4,1.8,3.5c1.2,1.2,2.6,1.2,3.5,1.7c0.6,0.4,0.6,1.4,0,1.7
-                  C11.8,7.9,10.2,8,9.1,9.1c-1,1-1.2,2.7-1.7,3.5C7,13.1,6,13.1,5.6,12.6z"/>
-              </svg>
-              <span>Portfolio</span>
-            </p> -->
-            <h2 class="h2__title animate-in-up">Check out my Data Science projects</h2>
-          </div>
-          <!-- Content Block - H2 Section Title End -->
-
-
-          <!-- Content Block - Works Gallery Start -->
-          <div class="content__block grid-block">
-            <div class="container-fluid px-0 inner__gallery">
-              <div class="row gx-0 my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr " itemprop="caption description">
-                <h5>NLP</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag opposite">NLP</span>
-                  <span class="rounded-tag opposite">Content</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End --> 
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr opposite" itemprop="caption description">
-                <h5 class="opposite">Computer Vision</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag">Computer Vision</span>
-                  <span class="rounded-tag">Total Marketing</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->  
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr opposite" itemprop="caption description">
-                <h5 class="opposite">Big Data</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag">Big Data</span>
-                  <span class="rounded-tag">Total Marketing</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->      
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr " itemprop="caption description">
-                <h5>Reinforcement Learning</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag opposite">Reinforcement Learning</span>
-                  <span class="rounded-tag opposite">Content</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->   
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr " itemprop="caption description">
-                <h5>Cloud</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag opposite">Cloud</span>
-                  <span class="rounded-tag opposite">Content</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr opposite" itemprop="caption description">
-                <h5 class="opposite">Machine Learning</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag">Machine Learning</span>
-                  <span class="rounded-tag">Total Marketing</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->  
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr opposite" itemprop="caption description">
-                <h5 class="opposite">Deep Learning</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag">Deep Learning</span>
-                  <span class="rounded-tag">Total Marketing</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->  
-
-            <!-- Works Gallery Single Item Start -->
-            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="https://dummyimage.com/1400x1400/3c3c3c/636363" data-image="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://dummyimage.com/800x800/3c3c3c/636363" class="gallery__image" itemprop="thumbnail" alt="Image description">
-              </a>
-              <figcaption class="gallery__descr " itemprop="caption description">
-                <h5>Customer Data Platform</h5>
-                <div class="card__tags d-flex flex-wrap">
-                  <span class="rounded-tag opposite">CDP360</span>
-                  <span class="rounded-tag opposite">Content</span>
-                </div>
-                <p class="small">Design publications and manage the RalliSmart - Rạng Đông Smart Home fanpage.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- Works Gallery Single Item End -->                                                                                                                                               
-          </div>
-        </div>
-      </div>
-      <!-- Content Block - Works Gallery End -->        
-        </section>        
-        <!-- Data Project Section end -->
-
         <!-- Other Section Start -->
         <section id="portfolio-2" class="inner inner-first portfolio-2">
 
@@ -696,7 +531,7 @@
               <!-- achievements single item -->
               <div class="achievements__item d-flex flex-column grid-item animate-card-3">
                 <div class="achievements__card">
-                  <p class="achievements__number">30+</p>
+                  <p class="achievements__number">50+</p>
                   <p class="achievements__descr">Happy clients</p>
                 </div>
               </div>
@@ -733,11 +568,12 @@
                 <!-- About Me Description Start -->
                 <div class="col-12 col-xl-8 grid-item about-descr">
                   <p class="about-descr__text animate-in-up">
-                    I began my career in financial accounting, gaining experience in financial analysis, reporting, and regulatory compliance.<br>
-                    After establishing a strong foundation, I transitioned to marketing, excelling in strategic campaigns, market research, and brand awareness.<br>
-                    In late 2020, I developed a keen interest in data science. Driven by this passion, I dedicated myself to learning and researching this field.
-                    This career shift is fueled by my desire to harness data for meaningful insights and innovation.<br>
-                    Currently, I am pursuing a Master's degree in Data Science at Liverpool John Moores University (UK) and seeking a related position.
+                  I launched my career in financial accounting, where I honed my skills in financial analysis, reporting, and regulatory compliance.<br>
+                  With a solid foundation in place, I transitioned to marketing, excelling in strategic campaigns, market research, and boosting brand awareness.<br>
+
+                  In late 2020, my curiosity and passion for data science took hold. I immersed myself in learning and researching the field, driven by a desire to leverage data for meaningful insights and innovation.<br>
+
+                  Currently, I am pursuing a Master's degree in Data Science at Liverpool John Moores University (UK) and actively seeking opportunities to apply my knowledge in a related position.<br>
                   </p>
                   <div class="btn-group about-descr__btnholder animate-in-up">
                     <a class="btn mobile-vertical btn-default btn-hover btn-hover-accent" href="#0">
@@ -816,11 +652,8 @@
             </p>
             <h2 class="h2__title animate-in-up">Education and practical experience</h2>
             <p class="h2__text animate-in-up">
-              Be what you would seem to be - or, if you'd like it put more simply - never imagine yourself not to be otherwise 
-              than what it might appear to others that what you were or 
-              <a href="#0" class="text-link">might have been</a> 
-              was not otherwise than what you had been 
-              would have appeared to them to be otherwise.
+            Stay true to yourself and your expertise.
+            Present yourself authentically and consistently to reflect <a href="#0" class="text-link">your true skills</a>  and capabilities accurately to others.
             </p>
           </div>
           <!-- Content Block - H2 Section Title End -->
@@ -1144,7 +977,7 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/sql.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Sql_icon.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">SQL</h6>
                 </div>
               </div>
@@ -1179,14 +1012,14 @@
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Kafka.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Kafka_icon.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Kafka</h6>
                 </div>
               </div>              
               <!-- tools simgle item -->
               <div class="tools-cards__item d-flex grid-item-s animate-card-5">
                 <div class="tools-cards__card">
-                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Hadoop.png" alt="Tools Icon">
+                  <img class="tools-cards__icon animate-in-up" src="https://vuha.info/img/icons/Hadoop_icon.png" alt="Tools Icon">
                   <h6 class="tools-cards__caption animate-in-up">Hadoop</h6>
                 </div>
               </div>              
