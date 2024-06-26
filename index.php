@@ -568,12 +568,12 @@
                 <!-- About Me Description Start -->
                 <div class="col-12 col-xl-8 grid-item about-descr">
                   <p class="about-descr__text animate-in-up">
-                  I launched my career in financial accounting, where I honed my skills in financial analysis, reporting, and regulatory compliance.<br>
-                  With a solid foundation in place, I transitioned to marketing, excelling in strategic campaigns, market research, and boosting brand awareness.<br>
+                  I launched my career in financial accounting, where I honed my skills in financial analysis, reporting, and regulatory compliance.<br><br>
+                  With a solid foundation in place, I transitioned to marketing, excelling in strategic campaigns, market research, and boosting brand awareness.<br><br>
 
-                  In late 2020, my curiosity and passion for data science took hold. I immersed myself in learning and researching the field, driven by a desire to leverage data for meaningful insights and innovation.<br>
+                  In late 2020, my curiosity and passion for data science took hold. I immersed myself in learning and researching the field, driven by a desire to leverage data for meaningful insights and innovation.<br><br>
 
-                  Currently, I am pursuing a Master's degree in Data Science at Liverpool John Moores University (UK) and actively seeking opportunities to apply my knowledge in a related position.<br>
+                  Currently, I am pursuing a Master's degree in Data Science at Liverpool John Moores University (UK) and actively seeking opportunities to apply my knowledge in a related position.
                   </p>
                   <div class="btn-group about-descr__btnholder animate-in-up">
                     <a class="btn mobile-vertical btn-default btn-hover btn-hover-accent" href="#0">
