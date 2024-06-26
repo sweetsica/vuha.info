@@ -26,10 +26,10 @@
     <!-- Facebook Metadata Start -->
     <meta property="og:image:height" content="1200">
     <meta property="og:image:width" content="1200">
-    <meta property="og:title" content="Braxton - Personal Portfolio & Resume HTML Template">
-    <meta property="og:description" content="Show yourself brightly with Braxton - unique and creative portfolio and resume template!">
-    <meta property="og:url" content="https://mixdesign.club/themeforest/braxton">
-    <meta property="og:image" content="https://mixdesign.club/themeforest/braxton/img/favicon/og-image.jpg">
+    <meta property="og:title" content="Vu Ha - Data Scientist and Marketing Manager">
+    <meta property="og:description" content="I'm Vu Ha Data Scientist and Marketing Manager.">
+    <meta property="og:url" content="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGwm4fhnE7u9wAAAZBUudAw9u0qehhxRyOfPFR1Bjj0fgwdMHrh6agNWvp5kiLHR9vQHwt4eCvuWEEdJ_I-deUzNnunfxFQr4dvSV6OKUsWFlJY-2wK9EHfAe8gy-QPZR0Pg-8=&original_referer=https://vuha.info/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvuha7394%2F">
+    <meta property="og:image" content="https://vuha.info/img/avatars/avatar.jpg">
     <!-- Facebook Metadata End -->
 
     <!-- Template Styles Start -->
