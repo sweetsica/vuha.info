@@ -458,7 +458,7 @@
               </svg>
               <span>Portfolio</span>
             </p> -->
-            <h2 class="h2__title animate-in-up">My others projects</h2>
+            <h2 class="h2__title animate-in-up">My other projects</h2>
           </div>
           <!-- Content Block - H2 Section Title End -->
 
@@ -500,7 +500,25 @@
                 </p>
               </figcaption>
             </figure>
-            <!-- Works Gallery Single Item End -->                                                                                                                                           
+            <!-- Works Gallery Single Item End -->    
+
+            <!-- Works Gallery Single Item Start -->
+            <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+              <a href="/img/project/hoithaoIDS.png" data-image="/img/project/hoithaoIDS.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                <img src="https://vuha.info/img/project/hoithaoIDS.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+              </a>
+              <figcaption class="gallery__descr " itemprop="caption description">
+                <h5>Free Combination</h5>
+                <div class="card__tags d-flex flex-wrap">
+                  <span class="rounded-tag opposite">Charity Project</span>
+                  <span class="rounded-tag opposite">Free Combination</span>
+                </div>
+                <p class="small">My friends and I established a "free combination" project that includes a free clothing closet, a water station, and a free book library (operational from 2018 to 2020).
+                  As the project leader, I saw it become a meaningful destination, fostering humanitarian sharing and attracting significant attention from the media and the community.
+                </p>
+              </figcaption>
+            </figure>
+            <!-- Works Gallery Single Item End -->             
           </div>
         </div>
       </div>
