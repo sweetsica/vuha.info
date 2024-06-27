@@ -504,8 +504,8 @@
 
             <!-- Works Gallery Single Item Start -->
             <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-              <a href="/img/project/hoithaoIDS.png" data-image="/img/project/hoithaoIDS.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
-                <img src="https://vuha.info/img/project/hoithaoIDS.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+              <a href="/img/project/thuvien1400.png" data-image="/img/project/thuvien.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                <img src="https://vuha.info/img/project/thuvien.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
               </a>
               <figcaption class="gallery__descr " itemprop="caption description">
                 <h5>Free Combination</h5>
