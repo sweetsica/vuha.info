@@ -1136,8 +1136,8 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                    • Perform accounting operations and financial reporting.<br>
-                    • Internal accounting and tax accounting.</p>
+                    • Performing accounting operations and financial reporting.<br>
+                    • Conducting internal accounting and tax accounting.</p>
                 </div>
               </div>              
             </div>
