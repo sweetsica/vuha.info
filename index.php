@@ -445,6 +445,141 @@
         </section>
         <!-- Portfolio Section End -->
 
+        <!-- Portfolio Section Start -->
+        <section id="portfolio" class="inner inner-first portfolio">
+
+          <!-- Content Block - H2 Section Title Start -->
+          <div class="content__block section-grid-title">
+            <p class="h2__subtitle animate-in-up">
+              <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="13px" height="13px" viewBox="0 0 13 13" fill="currentColor">
+                <path fill="currentColor" d="M5.6,12.6c-0.5-0.8-0.7-2.4-1.7-3.5c-1-1-2.7-1.2-3.5-1.7C-0.1,7-0.1,6,0.4,5.6c0.8-0.5,2.3-0.6,3.5-1.8
+                  C5,2.8,5.1,1.2,5.6,0.4C6-0.1,7-0.1,7.4,0.4c0.5,0.8,0.7,2.4,1.8,3.5c1.2,1.2,2.6,1.2,3.5,1.7c0.6,0.4,0.6,1.4,0,1.7
+                  C11.8,7.9,10.2,8,9.1,9.1c-1,1-1.2,2.7-1.7,3.5C7,13.1,6,13.1,5.6,12.6z"/>
+              </svg>
+              <span>Portfolio</span>
+            </p>
+            <h2 class="h2__title animate-in-up">Check out my Data Science projects</h2>
+          </div>
+          <!-- Content Block - H2 Section Title End -->
+
+          <!-- Content Block - Works Gallery Start -->
+          <div class="content__block grid-block">
+            <div class="container-fluid px-0 inner__gallery">
+              <div class="row gx-0 my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+    
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://vuha.info/img/project/Sentiment_Foody.png" data-image="/img/project/Sentiment_Foody.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://vuha.info/img/project/Sentiment_Foody.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr" itemprop="caption description">
+                    <h5>Sentiment Analysis on Foody.vn Reviews</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">Logistic Regression</span>
+                      <span class="rounded-tag opposite">KNN</span>
+                      <span class="rounded-tag opposite">Naïve Bayes</span>
+                    </div>
+                    <p class="small">
+                    The Sentiment Analysis on Foody.vn Reviews project leverages advanced machine learning techniques to classify customer feedback into positive and negative sentiments based on their ratings. This initiative aims to help restaurants understand customer opinions and improve their services and products by analyzing historical review data from Foody.vn. By employing supervised learning algorithms such as Naïve Bayes, KNN, and Logistic Regression, the system provides accurate predictions of customer sentiments, enabling quick and informed decision-making for enhancing customer satisfaction. The project involves comprehensive steps from data collection and preprocessing to model building and evaluation, ensuring a robust solution for sentiment classification in the Vietnamese cuisine sector. <br>
+                    Link Github: <a href="https://github.com/vuha7394/Sentiment_analysis_Foody">Sentiment Analysis Foody</a>
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->
+    
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://vuha.info/img/project/Sentiment_Clothing.png" data-image="/img/project/Sentiment_Clothing.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://vuha.info/img/project/Sentiment_Clothing.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">Sentiment Analysis on Clothing, Shoes, and Jewelry Reviews</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">LSTM</span>
+                      <span class="rounded-tag">RNN</span>
+                      <span class="rounded-tag">NLP</span>
+                    </div>
+                    <p class="small">The Sentiment Analysis on Clothing, Shoes, and Jewelry Reviews project employs machine learning algorithms to predict customer sentiment based on their reviews. By categorizing reviews into "like", "dislike", and "neutral" based on the overall rating, this initiative aims to understand customer satisfaction and improve product offerings. Utilizing text analysis and classification techniques, the system provides accurate sentiment predictions, aiding in better decision-making and enhancing the customer experience. <br>
+                    • Link Github: <a href="https://github.com/vuha7394/RNN_LSTM_NLP_Clothing_Shoes">LSTM, RNN & NLP Clothing Shoes</a>
+      
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->
+    
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://vuha.info/img/project/SQL_Movie.png" data-image="/img/project/SQL_Movie.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://vuha.info/img/project/SQL_Movie.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">SQL RSVP Movie IMDb</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">SQL</span>
+                    </div>
+                    <p class="small">The RSVP Movie analyzes IMDb data to identify trends in movie production and success. Key findings include a decline in production with March peaking, Drama as the top genre, and Dream Warrior Pictures and National Theatre as leading production companies. Future projects should focus on Drama, Action, and Thriller genres, with Marvel Studios, Twentieth Century Fox, and Warner Bros as key partners. James Mangold is recommended as a director, and Parvathy Thiruvothu, Andrew Garfield, Vijay Sethupathi, and Taapsee Pannu are suggested for lead roles.<br>
+                    • Link Github: <a href="https://github.com/vuha7394/SQL_RSVP_movie_case_study">SQL RSVP Movie</a>
+
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->
+    
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://vuha.info/img/project/EDA_bank_loan.png" data-image="/img/project/EDA_bank_loan.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://vuha.info/img/project/EDA_bank_loan.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr " itemprop="caption description">
+                    <h5>Bank Loan Risk Analytics in Lending Using EDA</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">EDA</span>
+                    </div>
+                    <p class="small">The Risk Analytics in Lending project uses Exploratory Data Analysis (EDA) to identify patterns in loan repayment and default risks. Key findings include a decrease in payment difficulties among pensioners and married individuals, and an increase among working individuals and those with secondary education. 'Low skilled Laborers' and 'Lower Secondary' education types show high default rates. Banks should target contracts for Students, Pensioners, and Businessmen, and prioritize housing types with parents. Loans for repairs and certain housing types are linked to higher default rates.<br>
+                    • Link Github: <a href="https://github.com/vuha7394/SQL_RSVP_movie_case_study">SQL RSVP Movie</a>
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://vuha.info/img/project/ANN_House_Price.png" data-image="/img/project/ANN_House_Price.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://vuha.info/img/project/ANN_House_Price.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr " itemprop="caption description">
+                    <h5>Predicting Melbourne House Prices with ANN</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag opposite">Artificial Neural Network (ANN)</span>
+                    </div>
+                    <p class="small">The Predicting House Prices project utilizes an Artificial Neural Network (ANN) to forecast house prices based on various features from the Melbourne House Prices dataset. This initiative aims to develop a model that accurately estimates house values, aiding in real estate evaluations. The project involves data preprocessing, model training, and evaluation using the dataset from <a href="https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market/data">Kaggle - Melbourne Housing Market.</a><br>
+                    • Link Github: <a href="https://github.com/vuha7394/ANN_Melbourne_house_price">ANN Melbourne House price</a>
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->
+
+                <!-- Works Gallery Single Item Start -->
+                <figure class="col-12 col-md-6 gallery__item grid-item animate-card-2" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                  <a href="https://vuha.info/img/project/Pytorch.png" data-image="/img/project/Pytorch.png" class="gallery__link" itemprop="contentUrl" data-size="1400x1400">
+                    <img src="https://vuha.info/img/project/Pytorch.png" class="gallery__image" itemprop="thumbnail" alt="Image description">
+                  </a>
+                  <figcaption class="gallery__descr opposite" itemprop="caption description">
+                    <h5 class="opposite">Simple Linear Regression Model with PyTorch</h5>
+                    <div class="card__tags d-flex flex-wrap">
+                      <span class="rounded-tag">PyTorch</span>
+                      <span class="rounded-tag">Linear Regression</span>
+                    </div>
+                    <p class="small">The Linear Regression exercise focuses on implementing a simple linear regression model using PyTorch, a popular open-source machine learning library. This fundamental exercise covers essential concepts such as tensor manipulation, model definition, and training with gradient descent. The goal is to build and train a linear regression model to predict outputs based on a linear relationship. The exercise involves preparing data, defining the model and loss function, training the model over multiple epochs, and evaluating the results to gain hands-on experience with PyTorch. <br>
+                    • Link Github: <a href="https://github.com/vuha7394/Pytorch_linear_regresssion">Linear Regression with PyTorch</a>
+                    </p>
+                  </figcaption>
+                </figure>
+                <!-- Works Gallery Single Item End -->   
+
+        </section>
+        <!-- Portfolio Section End -->
+        
         <!-- Other Section Start -->
         <section id="portfolio-2" class="inner inner-first portfolio-2">
 
@@ -479,7 +614,7 @@
                   <span class="rounded-tag opposite">Scientific Research Conference</span>
                   <span class="rounded-tag opposite">IDS</span>
                 </div>
-                <p class="small">The scientific research conference organized by the Institute for Strategy and Digital Economic Development (IDS) on the topic "Developing Cashless Payments - Current Situation and Solutions," includes the participation of members of parliament, experts, and scientific researchers, in which I am a research member.
+                <p class="small">The scientific research conference organized by the Institutes of Development Studies (IDS) on the topic "Developing Cashless Payments - Current Situation and Solutions," includes the participation of members of parliament, experts, and scientific researchers, in which I am a research member.
                 </p>
               </figcaption>
             </figure>
@@ -496,7 +631,7 @@
                   <span class="rounded-tag">Scientific Research Conference</span>
                   <span class="rounded-tag">PDI</span>
                 </div>
-                <p class="small">The policy development workshop on digital assets, organized by the Institute for Planning and Development, includes participation from members of parliament, representatives of the people, experts, and myself as a research member.
+                <p class="small">The policy development workshop on digital assets, organized by the Vietnam Planning and Development Institute (PDI), includes participation from members of parliament, representatives of the people, experts, and myself as a research member.
                 </p>
               </figcaption>
             </figure>
@@ -586,13 +721,9 @@
                 <!-- About Me Description Start -->
                 <div class="col-12 col-xl-8 grid-item about-descr">
                   <p class="about-descr__text animate-in-up">
-                  I launched my career in financial accounting, where I honed my skills in financial analysis, reporting, and regulatory compliance.<br><br>
-                  With a solid foundation in place, I transitioned to marketing, excelling in strategic campaigns, market research, and boosting brand awareness.<br><br>
-
-                  In late 2020, my curiosity and passion for data science took hold. I immersed myself in learning and researching the field, driven by a desire to leverage data for meaningful insights and innovation.<br><br>
-
-                  Currently, I am pursuing a Master's degree in Data Science at Liverpool John Moores University (UK) and actively seeking opportunities to apply my knowledge in a related position.
-                  </p>
+                  Dynamic Marketing Manager with 7+ years of experience in product development, distribution, and digital marketing, plus an additional 3 years in Data Science. <br>
+                  Excelling in managing cross-functional teams and driving growth through innovative, data-driven marketing strategies. <br>
+                  Demonstrating expertise in brand management, digital marketing, and data analysis with a proven track record of enhancing brand visibility and customer engagement. <p>
                   <div class="btn-group about-descr__btnholder animate-in-up">
                     <a class="btn mobile-vertical btn-default btn-hover btn-hover-accent" href="/pdf/VuHa_Marketing Manager_ENG.pdf" target="_blank">
                       <span class="btn-caption">Download CV</span>
@@ -626,12 +757,12 @@
                     <h6>
                       <small class="top">Github</small>
                       <a class="text-link-bold" href="https://github.com/vuha7394" target="_blank">github.com/vuha7394</a>
-                    </h6>
+                    <!-- </h6>
                   </div>
                   <div class="about-info__item animate-in-up">
                     <h6>
                       <small class="top">Linkedin</small>
-                      <a class="text-link-bold" href="https://www.linkedin.com/in/vuha7394/" target="_blank">linkedin.com/in/vuha7394/</a>
+                      <a class="text-link-bold" href="https://www.linkedin.com/in/vuha7394/" target="_blank">linkedin.com/in/vuha7394/</a> -->
                     </h6>
                   </div>                  
                   <div class="about-info__item animate-in-up">
@@ -700,10 +831,10 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                    • Deep knowledge of Data Science, covering data processing, machine learning, and complex data analysis.<br>
-                    • Develop programming skills and utilize popular programming languages and frameworks such as Python, R, TensorFlow, or PyTorch.<br>
-                    • Apply and update the latest Machine Learning and AI algorithms to solve complex problems and real-world projects.<br>
-                    • Demonstrate teamwork and communication skills within study group environments.</p>
+                    • Deepening knowledge of Data Science, covering data processing, machine learning, and complex data analysis.<br>
+                    • Developing programming skills and utilizing popular programming languages and frameworks such as Python, R, TensorFlow, or PyTorch.<br>
+                    • Applying and updating the latest Machine Learning and AI algorithms to solve complex problems and real-world projects.<br>
+                    • Demonstrating teamwork and communication skills within study group environments.</p>
                 </div>
               </div>
               <!-- education single item -->
@@ -719,7 +850,7 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                    Received in-depth and comprehensive training in specialized fields including financial accounting, managerial accounting, economic activity analysis, auditing, and control to enhance professional capabilities in the accounting profession. 
+                  Receiving in-depth and comprehensive training in specialized fields including financial accounting, managerial accounting, economic activity analysis, auditing, and control to enhance professional capabilities in the accounting profession.
                   </p>
                 </div>
               </div>
@@ -740,6 +871,45 @@
 
             <!-- Education Lines Start -->
             <div class="container-fluid p-0 resume-lines">
+              <!-- education single item -->
+              <div class="row g-0 resume-lines__item animate-in-up">
+                <div class="col-12 col-md-2">
+                  <span class="resume-lines__date animate-in-up">Aug 2024</span>
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/cert_PM_Google.png">                  
+                </div>
+                <div class="col-12 col-md-5">
+                  <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Foundation of Project Manager</h5>
+                  <p class="resume-lines__source animate-in-up">Award by 
+                    <a href="#0" class="text-link-bold" target="_blank">Google</a>
+                  </p>
+                </div>
+                <div class="col-12 col-md-5">
+                  <p style="padding-top:20px;" class="small resume-lines__descr animate-in-up">
+                    • Project planning and execution, including managing scope, time, and resources effectively.<br>
+                    • Utilizing key project management tools and techniques to ensure successful project outcomes.</p>
+                </div>
+              </div>   
+
+              <!-- education single item -->
+              <div class="row g-0 resume-lines__item animate-in-up">
+                <div class="col-12 col-md-2">
+                  <span class="resume-lines__date animate-in-up">Jul 2024</span>
+                  <img style="padding: 7px 10px 0px 0px" src="https://vuha.info/img/project/genAI_AWS.png">                  
+                </div>
+                <div class="col-12 col-md-5">
+                  <h5 style="padding-top:20px;" class="resume-lines__title animate-in-up">Generative AI for Excutives</h5>
+                  <p class="resume-lines__source animate-in-up">Award by 
+                    <a href="#0" class="text-link-bold" target="_blank">AWS</a>
+                  </p>
+                </div>
+                <div class="col-12 col-md-5">
+                  <p style="padding-top:20px;" class="small resume-lines__descr animate-in-up">
+                    • How to integrate generative AI into strategic decision-making and business processes.<br>
+                    • The potential applications of generative AI for driving innovation and improving operational efficiency.<br>
+                    • Best practices for managing and deploying AI solutions in various business contexts.</p>
+                </div>
+              </div>  
+
               <!-- education single item -->
               <div class="row g-0 resume-lines__item animate-in-up">
                 <div class="col-12 col-md-2">
@@ -873,7 +1043,7 @@
                   <span class="resume-lines__date animate-in-up">2024 - Now</span>
                 </div>
                 <div class="col-12 col-md-5">
-                  <h5 class="resume-lines__title animate-in-up">Data Specialist</h5>
+                  <h5 class="resume-lines__title animate-in-up">Head of Marketing | Data Specialist</h5>
                   <p class="resume-lines__source animate-in-up">at 
                     <a href="#0" class="text-link-bold" target="_blank">CS Viet Nam </a> Investment and Consultancy - Training JSC
                   </p>
@@ -881,9 +1051,10 @@
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
                   • Developed 20+ ML models for diverse projects.<br>
-                  • Achieved 82% accuracy in predicting future events from real-world data.<br>
-                  • Extracted data from APIs and files (csv, pdf) to analyze public opinion trends on policy changes.<br>
-                  • Led Ministry-level research on cashless payments and digital asset management policies with experts and scientists.<br>
+                  • Spearheading data-driven marketing strategies, significantly increasing brand visibility and customer engagement.<br>
+                  • Leading a team of marketing professionals, optimizing campaigns through advanced data analysis and market research.<br>
+                  • Leveraging data insights to identify trends, improve decision-making processes, drive business growth.<br>
+                  • Training and mentoring staff in effective use of data analytics tools and methodologies.
                   </p>
                 </div>
               </div>              
@@ -900,10 +1071,11 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                    • Founding Leadership: Founded and led the agency.<br>
-                    • Client Acquisition: Acquired and retained clients through networking and results.<br>
-                    • Team Management: Built and managed a high-performing team.<br>
-                    • Strategic Planning: Developed and executed strategic plans to drive sustainable growth and competitive. 
+                    • Founding and leading a marketing agency, showcasing entrepreneurial vision and effective leadership.<br>
+                    • Securing and maintaining clients through proactive networking and delivering outstanding outcomes.<br>
+                    • Forming and overseeing a top-performing team, promoting cooperation and achieving business goals.<br>
+                    • Formulating and implementing strategic plans to foster sustainable growth and competitive advantage.<br>
+                    • Utilizing data-driven insights to assess campaign performance and enhance marketing efforts.
                   </p>
                 </div>
               </div>              
@@ -922,10 +1094,10 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                    • Developed and reported on marketing strategies.<br>
-                    • Supported and collaborated with strategic partners.<br>
-                    • Managed customer data and developed internal data platform.<br>
-                    • Coordinated with IT to develop CDP software for personalized marketing and sales strategies.</p>
+                    • Strategizing and reporting on the development of digital marketing channels on a monthly, quarterly, and yearly basis.<br>
+                    • Providing marketing support to strategic partners, enhancing customer development and expansion.<br>
+                    • Collaborating with media partners, e-commerce platforms, KOLs, and KOCs.<br>
+                    • Coordinating with IT to develop CDP software for internal customer management and segmentation.</p>
                 </div>
               </div>
               <!-- experience single item -->
@@ -941,11 +1113,12 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                    • Planned and executed advertising & branding campaigns.<br>
-                    • Developed multi-channel ad campaigns on Facebook, Google, and e-commerce.<br>
-                    • Led and trained team members.<br>
-                    • Collaborated with partners like VCCorp, Shopee,...<br>
-                    • Managed social media and created content.
+                    • Developing and executing multi-channel advertising campaigns across Facebook, Google, and e-commerce platforms.<br>
+                    • Leading and training team members in new product features, processes, and skills.<br>
+                    • Managing company's social media channels, enhancing online presence and engagement.<br>
+                    • Organizing and coordinating events to promote brand awareness and foster community engagement.<br>
+                    • Creating engaging and relevant content for daily social media posts.<br>
+                    • Contributing to the development of content marketing strategies.
                   </p>
                 </div>
               </div>
