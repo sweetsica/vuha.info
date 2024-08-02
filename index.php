@@ -1050,7 +1050,7 @@
                 </div>
                 <div class="col-12 col-md-5">
                   <p class="small resume-lines__descr animate-in-up">
-                  • Developed 20+ ML models for diverse projects.<br>
+                  • Developing 20+ ML models for diverse projects.<br>
                   • Spearheading data-driven marketing strategies, significantly increasing brand visibility and customer engagement.<br>
                   • Leading a team of marketing professionals, optimizing campaigns through advanced data analysis and market research.<br>
                   • Leveraging data insights to identify trends, improve decision-making processes, drive business growth.<br>
